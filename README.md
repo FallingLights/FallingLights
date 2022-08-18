@@ -18,6 +18,8 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1046](https://github.com/evilsocket/pwnagotchi/issues/1046) in [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi)
+<!--END_SECTION:activity-->
 
 ---
 
