@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fallinglights</h1>
 <h3 align="center">A passionate developer from Slovenia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fallinglights&label=Profile%20views&color=0eb437&style=flat" alt="fallinglights" /> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=fallinglights&theme=gitdimmed&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 💬 Ask me about **C, Golang and RFID**
@@ -31,3 +29,5 @@
 ![FallingLights's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallinglights&show_icons=true&theme=vision-friendly-dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fallinglights&theme=dark" alt="fallinglights" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fallinglights&label=Profile%20views&color=0eb437&style=flat" alt="fallinglights" /> </p>
