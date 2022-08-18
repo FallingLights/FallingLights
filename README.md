@@ -20,6 +20,6 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fallinglights&show_icons=true&theme=dark&locale=en" alt="fallinglights" /></p>
+![FallingLights's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallinglights&show_icons=true&theme=vision-friendly-dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fallinglights&theme=dark" alt="fallinglights" /></p>
