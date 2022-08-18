@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fallinglights&label=Profile%20views&color=0eb437&style=flat" alt="fallinglights" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fallinglights" alt="fallinglights" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=fallinglights&theme=gitdimmed&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 💬 Ask me about **C, Golang and RFID**
 
