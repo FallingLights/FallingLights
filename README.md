@@ -46,6 +46,6 @@
 
 ![FallingLights's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallinglights&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fallinglights&theme=dark" alt="fallinglights" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fallinglights&theme=radical" alt="fallinglights" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fallinglights&label=Profile%20views&color=0eb437&style=flat" alt="fallinglights" /> </p>
