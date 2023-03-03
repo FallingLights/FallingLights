@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fallinglights</h1>
 <h3 align="center">A passionate developer from Slovenia</h3>
 
-<p align="center">
-    [![trophy](https://github-readme-stats.vercel.app/api?username=FallingLights&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-</p>
+[![trophy](https://github-trophies.vercel.app/?username=FallingLights&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 - 💬 Ask me about **C, Golang and RFID**
 
 <h3 align="left">Connect with me:</h3>
