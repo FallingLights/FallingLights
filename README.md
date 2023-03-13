@@ -34,7 +34,7 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1046](https://github.com/evilsocket/pwnagotchi/issues/1046) in [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi)
+1. 💪 Opened PR [#20632](https://github.com/ParadiseSS13/Paradise/pull/20632) in [ParadiseSS13/Paradise](https://github.com/ParadiseSS13/Paradise)
 <!--END_SECTION:activity-->
 
 ---
