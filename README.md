@@ -34,7 +34,7 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20632](https://github.com/ParadiseSS13/Paradise/pull/20632) in [ParadiseSS13/Paradise](https://github.com/ParadiseSS13/Paradise)
+1. 🗣 Commented on [#3564](https://github.com/yt-dlp/yt-dlp/issues/3564) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 <!--END_SECTION:activity-->
 
 ---
