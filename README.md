@@ -40,6 +40,8 @@
 ---
 
 <h3 align="left">Support:</h3>
+<p><a href="https://github.com/sponsors/FallingLights"> <img align="left" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" height="50" width="210" alt="fallinglights" /></a></p><br><br>  
+<br />
 <p><a href="https://www.buymeacoffee.com/fallinglights"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fallinglights" /></a></p><br><br>  
 
 <br />
