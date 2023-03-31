@@ -34,7 +34,7 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/FallingLights/Teachable-dl/issues/9) in [FallingLights/Teachable-dl](https://github.com/FallingLights/Teachable-dl)
+1. 🗣 Commented on [#10](https://github.com/FallingLights/Teachable-dl/issues/10) in [FallingLights/Teachable-dl](https://github.com/FallingLights/Teachable-dl)
 <!--END_SECTION:activity-->
 
 ---
