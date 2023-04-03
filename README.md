@@ -50,7 +50,7 @@
   <summary><b>GitHub Statistics</b></summary>
   <div>
     <img height="135px" src="https://github-readme-stats.vercel.app/api?username=fallinglights&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" />
-    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallinglights&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallinglights&hide=html&hide_title=true&hide_border=true&layout=compact&include_all_commits=true&count_private=true&langs_count=8&theme=nord" />
     <img height="135px" src="https://github-readme-streak-stats.herokuapp.com/?user=fallinglights&hide_border=true&include_all_commits=true&count_private=true&theme=nord" />
   </div>
   <div>
