@@ -34,7 +34,7 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#324](https://github.com/hardpixel/unite-shell/issues/324) in [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell)
+1. ❗️ Closed issue [#10](https://github.com/FallingLights/Teachable-dl/issues/10) in [FallingLights/Teachable-dl](https://github.com/FallingLights/Teachable-dl)
 <!--END_SECTION:activity-->
 
 ---
