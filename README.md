@@ -34,7 +34,7 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/FallingLights/Teachable-dl/issues/32#issuecomment-1843818745) in [FallingLights/Teachable-dl](https://github.com/FallingLights/Teachable-dl)
+1. 🚀 Published release [v1.2.0](https://github.com/FallingLights/Teachable-dl/releases/tag/v1.2.0) in [FallingLights/Teachable-dl](https://github.com/FallingLights/Teachable-dl)
 <!--END_SECTION:activity-->
 
 ---
