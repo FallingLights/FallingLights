@@ -4,7 +4,6 @@
 <p align="center">
     <img src= "https://github-trophies.vercel.app/?username=FallingLights&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Github Throphies"/>
 </p> 
-- 💬 Ask me about **C, Golang and RFID**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
