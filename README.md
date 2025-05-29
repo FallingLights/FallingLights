@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fallinglights</h1>
-<h3 align="center">A passionate developer from Slovenia</h3>
+<h1 align="center">I'm Fallinglights</h1>
+<h3 align="center">A developer from Slovenia</h3>
 
 <p align="center">
     <img src= "https://github-trophies.vercel.app/?username=FallingLights&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Github Throphies"/>
